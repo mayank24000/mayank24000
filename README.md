@@ -1,5 +1,5 @@
 # Hi there 👋
-🔭 I am currently working on: Front-end development fundamentals<br>👯 Open to collaborating on: Web and design projects<br>🌱 Learning about: JavaScript, React, and UI/UX design<br>💬 Feel free to ask me about: Front-end and design tools<br>⚡ Fun fact: I love movies, video editing, and graphic design
+🔭 I am currently working on Front-end development fundamentals<br>👯 Open to collaborating on: Web and design projects<br>🌱 Learning about: JavaScript, React, and UI/UX design<br>💬 Feel free to ask me about: Front-end and design tools<br>⚡ Fun fact: I love movies, video editing, and graphic design
 
 
 ## 🌐 Socials:
