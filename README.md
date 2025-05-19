@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About Me:
 🔭 Currently focused on: Front-end development fundamentals<br>👯 Open to collaborating on: Web and design projects<br>🌱 Learning about: JavaScript, React, and UI/UX design<br>💬 Feel free to ask me about: Front-end and design tools<br>⚡ Fun fact: I love movies, video editing, and graphic design
 
 
